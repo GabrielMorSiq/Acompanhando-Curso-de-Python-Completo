@@ -38,4 +38,4 @@ while True:
             continue
         print(f'The division of {num1} and {num2} is {num1 / num2:.3}')
 
-print("Thank you!")
+print("Thank you")
