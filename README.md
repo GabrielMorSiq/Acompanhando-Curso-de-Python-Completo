@@ -5,8 +5,8 @@ Registro das anotações e códigos com ideias gerais das aulas do [Curso de Pyt
 
 **Conteúdo**:
 
-Python 3 básico (com lógica de programação)
-Python 3 intermediário (com programação procedural e funcional)
+-Python 3 básico (com lógica de programação)
+-Python 3 intermediário (com programação procedural e funcional)
 Python 3 avançado (com programação orientada a objetos)
 Módulos do Python, como PyQT5 para GUI, Selenium e muito mais
 Django para criação de sites e APIs
