@@ -18,4 +18,9 @@ while contador <= 10:
 else:
     print('Cheguei no Else mas não executo')
 
-
+g = 5
+while g > 1:
+    print("oi")
+    g = g - 1
+else:
+    print("terminou")
